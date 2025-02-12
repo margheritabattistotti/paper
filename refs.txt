@@ -1,1 +1,2 @@
 Smith-Miles, 2022: Instance Space Analysis
+Manuel Lopez-Ibanez et al, 2016: The irace package
