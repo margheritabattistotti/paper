@@ -25,3 +25,6 @@ The experiments indicate the new proposed framework is competitive.
 
 # Figures
 Refer to these figures for more clarity.
+
+# Conclusions 
+We have made a fantastic insight into the real-time AAC field. Nonetheless some questions remain unanswered.
