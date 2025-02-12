@@ -19,3 +19,6 @@ We simulate the stream of instances to test our novel framework.
 
 # Methodology
 We compared our framework with the state-of-the-art method from Hutter et al, 2011.
+
+# Results
+The experiments indicate the new proposed framework is competitive.
