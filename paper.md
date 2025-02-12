@@ -2,8 +2,8 @@
 A novel AAC framework: simulations of AAC under streaming problem instances
 
 # Authors
-John Smith
-Margherita Battistotti
+John Smith, University of Louisville
+Margherita Battistotti, University of Manchester
 
 # Introduction
 We present a new AAC framework capable of dealing with streaming scenarios. 
