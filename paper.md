@@ -1,7 +1,7 @@
 # Title
 A novel AAC framework: simulations of AAC under streaming problem instances
 
-# Author
+# Authors
 Margherita Battistotti
 John Smith
 
@@ -22,3 +22,6 @@ We compared our framework with the state-of-the-art method from Hutter et al, 20
 
 # Results
 The experiments indicate the new proposed framework is competitive.
+
+# Figures
+Refer to these figures for more clarity.
