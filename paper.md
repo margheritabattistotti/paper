@@ -1,5 +1,5 @@
 # Title
-AAC under streaming problem instances
+An AAC framework for streaming problem instances
 
 # Author
 Margherita Battistotti
