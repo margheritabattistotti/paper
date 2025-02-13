@@ -28,3 +28,6 @@ Refer to these figures for more clarity.
 
 # Conclusions 
 We have made a fantastic insight into the real-time AAC field. Nonetheless some questions remain unanswered.
+
+# Acknowledgements  
+Special thanks to my supervisors.
